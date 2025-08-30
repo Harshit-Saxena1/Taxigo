@@ -59,3 +59,11 @@ Make sure you have Node.js and npm installed on your machine.
 * **Book a Ride:** Enter your pickup and drop-off locations on the map.
 * **View Trip Details:** The app will calculate the fare and show the trip details.
 * **Make Payment:** Complete the payment using the integrated payment system.
+
+## Sample Photos
+
+![Screenshot 2025-08-30 214642](https://github.com/user-attachments/assets/34243f44-6fa9-4b12-97ab-e7a19a1d896d)
+
+![Screenshot 2025-08-30 214748](https://github.com/user-attachments/assets/07d8e3e4-2a8e-4eff-b497-dee6980449cc)
+
+
